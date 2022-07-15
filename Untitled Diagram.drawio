@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:13:10.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="VDb0S3D0eBB2uKw6BAbR" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:18:31.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="hf8ePymGMXFWf4CwmGXS" version="20.0.4" type="github" pages="5">
   <diagram name="lv0" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="642" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nleLwlhJniTahkU61J5l" name="DFD Fragments (2)">
-    <mxGraphModel dx="758" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,11 +321,26 @@
         <mxCell id="Lu41KiXMuXi3T5_g15Eh-5" value="การอนุมัติ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="660" y="720" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="09dTxcQ6dQYqg093Nzus-1" value="Authorized signature" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="09dTxcQ6dQYqg093Nzus-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="09dTxcQ6dQYqg093Nzus-1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="585" y="447" as="sourcePoint" />
+            <mxPoint x="290" y="690.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="09dTxcQ6dQYqg093Nzus-3" value="คำร้องขออนุมัติ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="IAJVAnzr9V3GliZeMvCe" name="DFD Fragments (4)">
-    <mxGraphModel dx="842" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +404,7 @@
         <mxCell id="gFaY8AUNLkl9NvaKRvEB-2" value="ข้อมูลผู้มีสิทธิ์สัมภาษณ์" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="130" y="391" width="150" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="udkFmBMs0dbvIUtfg85Y-1" value="สัญญาจ้างงาน" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="udkFmBMs0dbvIUtfg85Y-1" value="ข้อมูลการสมัครงาน" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="890" y="391" width="150" height="46" as="geometry" />
         </mxCell>
         <mxCell id="udkFmBMs0dbvIUtfg85Y-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
@@ -404,6 +419,71 @@
               <mxPoint x="630" y="262.52" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bI0ZbWlsxCEWj-szLsqG-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="bI0ZbWlsxCEWj-szLsqG-3" target="hAdEK6f-JViYCakwtKsw-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="845" y="630" as="sourcePoint" />
+            <mxPoint x="570" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bI0ZbWlsxCEWj-szLsqG-2" value="การอนุมัติการจ้างงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="650" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI0ZbWlsxCEWj-szLsqG-3" value="Authorized signature" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bI0ZbWlsxCEWj-szLsqG-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bI0ZbWlsxCEWj-szLsqG-3" source="hAdEK6f-JViYCakwtKsw-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="585" y="447" as="sourcePoint" />
+            <mxPoint x="290" y="690.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bI0ZbWlsxCEWj-szLsqG-5" value="คำร้องขออนุมัติ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDFcHM0jmLefQEeZ76cd-1" value="Applicant" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDFcHM0jmLefQEeZ76cd-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDFcHM0jmLefQEeZ76cd-1" target="hAdEK6f-JViYCakwtKsw-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="430" y="410" as="sourcePoint" />
+            <mxPoint x="325" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="520" />
+              <mxPoint x="420" y="460" />
+              <mxPoint x="430" y="520" />
+              <mxPoint x="410" y="470" />
+              <mxPoint x="430" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ei0Ilnx4tNydho9pKVgR-1" value="ข้อมูลการสัมภาษณ์" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="129" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei0Ilnx4tNydho9pKVgR-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAdEK6f-JViYCakwtKsw-1" target="KDFcHM0jmLefQEeZ76cd-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="125" y="595" as="sourcePoint" />
+            <mxPoint x="285" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="630" />
+              <mxPoint x="165" y="640" />
+              <mxPoint x="285" y="650" />
+              <mxPoint x="105" y="670" />
+              <mxPoint x="20" y="429" />
+              <mxPoint x="30" y="489" />
+              <mxPoint x="10" y="439" />
+              <mxPoint x="30" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ei0Ilnx4tNydho9pKVgR-3" value="ผลการสัมภาษณ์" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="271" y="550" width="129" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
