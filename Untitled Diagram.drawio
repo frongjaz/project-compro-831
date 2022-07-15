@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:36:59.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="zOKtauufnXdue20V0sGa" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:43:28.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="SnonhEWD51m4bSAFOsYh" version="20.0.4" type="github" pages="6">
   <diagram name="lv0" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1660" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qltZQpy9sZm854QSvAhM" name="DFD Fragments (3)">
-    <mxGraphModel dx="914" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,7 +489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SYDRPaeIRv5nN8a1ZeaU" name="รวม">
-    <mxGraphModel dx="1560" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,6 +594,117 @@
               <mxPoint x="875" y="290" />
               <mxPoint x="855" y="240" />
               <mxPoint x="875" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3H7UxoAb-lc6EFQqEhx-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1035" y="163.50000000000023" as="sourcePoint" />
+            <mxPoint x="1235" y="164" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1125" y="163.5" />
+              <mxPoint x="970" y="-67.5" />
+              <mxPoint x="980" y="-7.5" />
+              <mxPoint x="960" y="-57.5" />
+              <mxPoint x="980" y="12.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SD0q7soaXzV9-1OiY_Tx-1" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3&lt;/span&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot;&gt;&lt;h2 style=&quot;background: transparent; border: 0px; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; line-height: normal;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#153359&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400; letter-spacing: 0.5px;&quot;&gt;Selection of Applicants&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h2&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="133" width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy-aDzVbGsyYs0fgZdc--1" value="HR" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="410" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy-aDzVbGsyYs0fgZdc--2" value="ข้อมูลการสมัครงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="310" width="129" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy-aDzVbGsyYs0fgZdc--3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1285" y="200" as="sourcePoint" />
+            <mxPoint x="1120" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="270" />
+              <mxPoint x="1470" y="243" />
+              <mxPoint x="1480" y="303" />
+              <mxPoint x="1460" y="253" />
+              <mxPoint x="1480" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy-aDzVbGsyYs0fgZdc--4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1.013;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cy-aDzVbGsyYs0fgZdc--1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1570" y="240" as="sourcePoint" />
+            <mxPoint x="1350" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="400" />
+              <mxPoint x="1395" y="370" />
+              <mxPoint x="1275" y="380" />
+              <mxPoint x="1395" y="390" />
+              <mxPoint x="1215" y="410" />
+              <mxPoint x="1130" y="169" />
+              <mxPoint x="1140" y="229" />
+              <mxPoint x="1120" y="179" />
+              <mxPoint x="1140" y="249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy-aDzVbGsyYs0fgZdc--5" value="รายชื่อผู้ผ่านการสัมภาษณ์งาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="436" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RLNjtL0IbHvTXltY7rWD-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1440" y="166.5" as="sourcePoint" />
+            <mxPoint x="1640" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1530" y="166.5" />
+              <mxPoint x="1375" y="-64.5" />
+              <mxPoint x="1385" y="-4.5" />
+              <mxPoint x="1365" y="-54.5" />
+              <mxPoint x="1385" y="15.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLNjtL0IbHvTXltY7rWD-2" value="ข้อมูลผู้มีสิทธิ์สัมภาษณ์" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="110" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="eoXa_8ugwEiH8NfU2S5t-5" value="การอนุมัติ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eoXa_8ugwEiH8NfU2S5t-6" value="Authorized signature" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="410" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoXa_8ugwEiH8NfU2S5t-8" value="คำร้องขออนุมัติ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rVxx3NU71lIu4Gaegc62-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="SD0q7soaXzV9-1OiY_Tx-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1562.4" y="295" as="sourcePoint" />
+            <mxPoint x="1710" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="310" />
+              <mxPoint x="1532.4" y="549" />
+              <mxPoint x="1377.4" y="318" />
+              <mxPoint x="1387.4" y="378" />
+              <mxPoint x="1367.4" y="328" />
+              <mxPoint x="1387.4" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qn3uwrM1maGgo1YKUoWG-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.847;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoXa_8ugwEiH8NfU2S5t-6" target="SD0q7soaXzV9-1OiY_Tx-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1420" y="539.9999999999999" as="sourcePoint" />
+            <mxPoint x="1400" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="340" />
+              <mxPoint x="1644.83" y="478.15999999999997" />
+              <mxPoint x="1524.83" y="488.15999999999997" />
+              <mxPoint x="1644.83" y="498.15999999999997" />
+              <mxPoint x="1464.83" y="518.16" />
+              <mxPoint x="1379.83" y="277.15999999999997" />
+              <mxPoint x="1389.83" y="337.15999999999997" />
+              <mxPoint x="1369.83" y="287.15999999999997" />
+              <mxPoint x="1389.83" y="357.15999999999997" />
             </Array>
           </mxGeometry>
         </mxCell>
